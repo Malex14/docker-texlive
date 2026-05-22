@@ -18,6 +18,8 @@ concurrency:
 
 permissions:
   actions: write
+  packages: write
+  attestations: write
 
 jobs:
   build:
